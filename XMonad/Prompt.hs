@@ -93,6 +93,7 @@ module XMonad.Prompt
     , initMatches
     , historyUpMatching
     , historyDownMatching
+    , readHistory
     -- * Types
     , XPState
     ) where
